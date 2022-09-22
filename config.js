@@ -13,7 +13,7 @@ const CONFIG = {
   // General
   name: "Foxy",
   imageBackground: false,
-  openInNewTab: true,
+  openInNewTab: false,
   twelveHourFormat: false,
 
   // Greetings
