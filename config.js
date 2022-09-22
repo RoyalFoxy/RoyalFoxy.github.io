@@ -71,8 +71,8 @@ const CONFIG = {
     },
     {
       id: "4",
-      name: "Entry",
-      icon: "pencil",
+      name: "Drupal",
+      icon: "droplet",
       link: "https://main-bvxea6i-yoh4v4xbumkqg.de-2.platformsh.site/",
     },
     {
@@ -161,7 +161,7 @@ const CONFIG = {
       ],
     },
     {
-      icon: "graduation-cap",
+      icon: "activity",
       id: "2",
       links: [
         {
